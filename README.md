@@ -89,9 +89,9 @@ Blueneek is my project Blueneek – Web Services Html Template is perfect for we
 i am BTech pursuing Students,from 3rd year i considered this as problem as we facing the same situtaion regularly.
 
 - Rambabu Palla(leader)
-- dhanusha.v
-- eswara rao.k
-- raghavedhara.k
+- Dhanusha.v
+- Eswara Rao.k
+- Raghavedhara.k
 
 
 # Privacy Policies 

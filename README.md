@@ -64,11 +64,11 @@ EduWell is my project that is done as also called an online course, is any cours
 # Deployment  Screenshots
 
 - Azure Environment
-- ![azure](https://user-images.githubusercontent.com/85716910/198466082-e678fd3f-20d2-44c6-b86c-c516d4ba3682.PNG)
+-
 
 
 - Github Runtime Actions
-- ![keerthi](https://user-images.githubusercontent.com/85716910/198419187-b0398e18-3559-43b6-b656-ea37a3862f5c.PNG)
+- 
 
 # Project WorkFlow
 
@@ -88,5 +88,5 @@ i am BTech pursuing Students,from 3rd year i considered this as problem as we fa
 
 # Privacy Policies 
 [
-https://www.freeprivacypolicy.com/live/a6b55d2e-c44e-4be6-9df2-b0f291e811db
+[https://www.freeprivacypolicy.com/live/a6b55d2e-c44e-4be6-9df2-b0f291e811db](https://www.freeprivacypolicy.com/live/d02d6f50-f9d9-4724-bc9f-3bd1c3ed027d)
 ](https://www.freeprivacypolicy.com/live/1a7a1db0-cec6-476b-82f3-f2ede8e0362b)

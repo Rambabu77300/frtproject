@@ -90,8 +90,8 @@ i am BTech pursuing Students,from 3rd year i considered this as problem as we fa
 
 - Rambabu Palla(leader)
 - Dhanusha.v
-- Eswara Rao.k
-- Raghavedhara.k
+- Raghavendra.k
+
 
 
 # Privacy Policies 

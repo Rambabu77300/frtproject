@@ -4,7 +4,7 @@
 
 AZURE LINK : [https://ashy-stone-08d3a1f10.2.azurestaticapps.net](https://zealous-ground-08eea8b00.2.azurestaticapps.net)
 
-YOUTUBE LINK :
+YOUTUBE LINK :https://www.youtube.com/watch?v=9xSq_n_kfDI
 
 PROJECT DEMO URL: https://rambabu77300.github.io/frtproject
 
@@ -87,7 +87,10 @@ EduWell is my project that is done as also called an online course, is any cours
 # About Us
 i am BTech pursuing Students,from 3rd year i considered this as problem as we facing the same situtaion regularly.
 
--  Keerthi Korumilli
+- Rambabu Palla(leader)
+- dhanusha.v
+- eswara rao.k
+- raghavedhara.k
 
 
 # Privacy Policies 

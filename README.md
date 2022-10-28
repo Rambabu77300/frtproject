@@ -1,4 +1,4 @@
-# Future Ready Talent - EduWell
+# Future Ready Talent - blueneek
 
 
 
@@ -15,17 +15,18 @@ PROJECT LINK(GITHUB REPOSITORY : https://github.com/rambabu77300/frtproject
 
 
 
-EduWell is my project that is done as also called an online course, is any course taught online instead of in-person. Many ecourses are pre-recorded, but can also include many other components that create an engaging learning experience outside of a traditional classroom environment
+Blueneek is my project Blueneek – Web Services Html Template is perfect for web agencies. It is a free html template that we can utilize for a showcase to Web development, Mobile app development and any kind of Information Technology related services
 
 # Features
--  Good UI
+-  Modern design
 
--  Easy To Navigate
+- SEO Optimized
 
--  User Friendly
+-  Web services html template
 
--  It Contains a helping Chat(twiko)
-
+-  cross-browser compatibility
+  
+-  100% fully customizable
 
 
 # Languages or Technologies
